@@ -1,0 +1,3 @@
+[submodule "themes/candelas"]
+	path = themes/candelas
+	url = https://github.com/DukeLuo/hexo-theme-candelas.git
